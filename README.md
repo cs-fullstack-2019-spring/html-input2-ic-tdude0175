@@ -1,2 +1,2 @@
-# html-input2-ic
-HTML Input 2 IC
+# HTML Input 2 IC
+Reproduce the form in the provided image
